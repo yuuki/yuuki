@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/yuuki/yuuki/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -29,6 +39,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/yuuki/yuuki/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/yuuki/yuuki/main/profile-summary-card-output/noctis_minimus/3-stats.svg)
 ```
 
     
